@@ -10,7 +10,7 @@ To install on Windows machines, refer to the website: http://www.codebind.com/cp
 ## For Linux:
 To compile, type command: 
 ```
-g++ -c ATM.cpp
+g++ ATM.cpp -o ATM.o
 ```
 To run program, type command: 
 ```
